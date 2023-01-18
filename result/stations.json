@@ -1,0 +1,2147 @@
+{
+  "stations": [
+    {
+      "name": "Авиамоторная",
+      "number": "15",
+      "nameLine": "Некрасовская линия",
+      "date": "27.03.2020",
+      "depth": "?",
+      "hasConnection": false
+    },
+    {
+      "name": "Автозаводская",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "10.09.2016",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Академическая",
+      "number": "6",
+      "nameLine": "Калужско-Рижская линия",
+      "date": "13.10.1962",
+      "depth": "−8,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Александровский сад",
+      "number": "4",
+      "nameLine": "Филевская линия",
+      "date": "15.05.1935",
+      "depth": "−7",
+      "hasConnection": false
+    },
+    {
+      "name": "Алексеевская",
+      "number": "6",
+      "nameLine": "Калужско-Рижская линия",
+      "depth": "−51",
+      "hasConnection": false
+    },
+    {
+      "name": "Алма-Атинская",
+      "number": "2",
+      "nameLine": "Замоскворецкая линия",
+      "date": "24.12.2012",
+      "depth": "−10",
+      "hasConnection": false
+    },
+    {
+      "name": "Алтуфьево",
+      "number": "9",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "date": "15.07.1994",
+      "depth": "−9",
+      "hasConnection": false
+    },
+    {
+      "name": "Андроновка",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "10.09.2016",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Аникеевка",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Аннино",
+      "number": "9",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "date": "12.12.2001",
+      "depth": "−8",
+      "hasConnection": false
+    },
+    {
+      "name": "Арбатская",
+      "number": "3",
+      "nameLine": "Арбатско-Покровская линия",
+      "date": "05.04.1953",
+      "depth": "−41",
+      "hasConnection": false
+    },
+    {
+      "name": "Аэропорт",
+      "number": "2",
+      "nameLine": "Замоскворецкая линия",
+      "date": "11.09.1938",
+      "depth": "−10",
+      "hasConnection": false
+    },
+    {
+      "name": "Бабушкинская",
+      "number": "6",
+      "nameLine": "Калужско-Рижская линия",
+      "date": "30.09.1978",
+      "depth": "−10",
+      "hasConnection": false
+    },
+    {
+      "name": "Багратионовская",
+      "number": "4",
+      "nameLine": "Филевская линия",
+      "date": "13.10.1961",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Баковка",
+      "number": "D1",
+      "nameLine": "МЦД-1",
+      "hasConnection": false
+    },
+    {
+      "name": "Балтийская",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "10.09.2016",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Баррикадная",
+      "number": "7",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "date": "30.12.1972",
+      "depth": "−30",
+      "hasConnection": false
+    },
+    {
+      "name": "Бауманская",
+      "number": "3",
+      "nameLine": "Арбатско-Покровская линия",
+      "date": "18.01.1944",
+      "depth": "−32,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Беговая",
+      "number": "D1",
+      "nameLine": "МЦД-1",
+      "date": "30.12.1972",
+      "depth": "−9",
+      "hasConnection": false
+    },
+    {
+      "name": "Белокаменная",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "10.09.2016",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Беломорская",
+      "number": "2",
+      "nameLine": "Замоскворецкая линия",
+      "date": "20.12.2018",
+      "depth": "−18",
+      "hasConnection": false
+    },
+    {
+      "name": "Белорусская",
+      "number": "D1",
+      "nameLine": "МЦД-1",
+      "date": "30.01.1952",
+      "depth": "−42,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Беляево",
+      "number": "6",
+      "nameLine": "Калужско-Рижская линия",
+      "date": "12.08.1974",
+      "depth": "−12",
+      "hasConnection": false
+    },
+    {
+      "name": "Бескудниково",
+      "number": "D1",
+      "nameLine": "МЦД-1",
+      "hasConnection": false
+    },
+    {
+      "name": "Бибирево",
+      "number": "9",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "date": "31.12.1992",
+      "depth": "−9,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Библиотека имени Ленина",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "date": "15.05.1935",
+      "depth": "−12",
+      "hasConnection": false
+    },
+    {
+      "name": "Битца",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Битцевский парк",
+      "number": "12",
+      "nameLine": "Бутовская линия",
+      "date": "27.02.2014",
+      "depth": "−10",
+      "hasConnection": false
+    },
+    {
+      "name": "Борисово",
+      "number": "10",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "date": "02.12.2011",
+      "depth": "−10",
+      "hasConnection": false
+    },
+    {
+      "name": "Боровицкая",
+      "number": "9",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "date": "23.01.1986",
+      "depth": "−46,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Боровское шоссе",
+      "number": "8",
+      "nameLine": "Калининско-Солнцевская линия",
+      "date": "30.08.2018",
+      "depth": "−20",
+      "hasConnection": false
+    },
+    {
+      "name": "Ботанический Сад",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "10.09.2016",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Братиславская",
+      "number": "10",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "date": "25.12.1996",
+      "depth": "−8",
+      "hasConnection": false
+    },
+    {
+      "name": "Бульвар адмирала Ушакова",
+      "number": "12",
+      "nameLine": "Бутовская линия",
+      "date": "27.12.2003",
+      "depth": "9,6",
+      "hasConnection": false
+    },
+    {
+      "name": "Бульвар Дмитрия Донского",
+      "number": "9",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "date": "26.12.2002",
+      "depth": "−10",
+      "hasConnection": false
+    },
+    {
+      "name": "Бульвар Рокоссовского",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "01.08.1990",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Бунинская Аллея",
+      "number": "12",
+      "nameLine": "Бутовская линия",
+      "date": "27.12.2003",
+      "depth": "9,6",
+      "hasConnection": false
+    },
+    {
+      "name": "Бутово",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Бутырская",
+      "number": "10",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "date": "16.09.2016",
+      "depth": "−60",
+      "hasConnection": false
+    },
+    {
+      "name": "Варшавская",
+      "number": "11A",
+      "nameLine": "Каховская линия",
+      "date": "11.08.1969",
+      "depth": "−9",
+      "hasConnection": false
+    },
+    {
+      "name": "ВДНХ",
+      "number": "6",
+      "nameLine": "Калужско-Рижская линия",
+      "date": "01.05.1958",
+      "depth": "−53,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Верхние Котлы",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "10.09.2016",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Верхние Лихоборы",
+      "number": "10",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "date": "22.03.2018",
+      "depth": "−65",
+      "hasConnection": false
+    },
+    {
+      "name": "Владыкино",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "10.09.2016",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Водники",
+      "number": "D1",
+      "nameLine": "МЦД-1",
+      "hasConnection": false
+    },
+    {
+      "name": "Водный стадион",
+      "number": "2",
+      "nameLine": "Замоскворецкая линия",
+      "date": "31.12.1964",
+      "depth": "−6",
+      "hasConnection": false
+    },
+    {
+      "name": "Войковская",
+      "number": "2",
+      "nameLine": "Замоскворецкая линия",
+      "date": "31.12.1964",
+      "depth": "−7",
+      "hasConnection": false
+    },
+    {
+      "name": "Волгоградский проспект",
+      "number": "7",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "date": "31.12.1966",
+      "depth": "−8",
+      "hasConnection": false
+    },
+    {
+      "name": "Волжская",
+      "number": "10",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "date": "28.12.1995",
+      "depth": "−8",
+      "hasConnection": false
+    },
+    {
+      "name": "Волоколамская",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "date": "26.12.2009",
+      "depth": "−14",
+      "hasConnection": false
+    },
+    {
+      "name": "Воробьевы горы",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "hasConnection": false
+    },
+    {
+      "name": "Выставочная",
+      "number": "4",
+      "nameLine": "Филевская линия",
+      "date": "10.09.2005",
+      "depth": "−25",
+      "hasConnection": false
+    },
+    {
+      "name": "Выхино",
+      "number": "7",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "date": "31.12.1966",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Говорово",
+      "number": "8",
+      "nameLine": "Калининско-Солнцевская линия",
+      "date": "30.08.2018",
+      "depth": "−14",
+      "hasConnection": false
+    },
+    {
+      "name": "Гражданская",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Дегунино",
+      "number": "D1",
+      "nameLine": "МЦД-1",
+      "hasConnection": false
+    },
+    {
+      "name": "Деловой центр",
+      "number": "11",
+      "nameLine": "Большая Кольцевая Линия",
+      "date": "31.01.2014",
+      "depth": "−30",
+      "hasConnection": false
+    },
+    {
+      "name": "Депо",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Динамо",
+      "number": "2",
+      "nameLine": "Замоскворецкая линия",
+      "date": "11.09.1938",
+      "depth": "−39,6",
+      "hasConnection": false
+    },
+    {
+      "name": "Дмитровская",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "date": "01.03.1991",
+      "depth": "−59",
+      "hasConnection": false
+    },
+    {
+      "name": "Добрынинская",
+      "number": "5",
+      "nameLine": "Кольцевая линия",
+      "date": "01.01.1950",
+      "depth": "−35,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Долгопрудная",
+      "number": "D1",
+      "nameLine": "МЦД-1",
+      "hasConnection": false
+    },
+    {
+      "name": "Домодедовская",
+      "number": "2",
+      "nameLine": "Замоскворецкая линия",
+      "date": "07.09.1985",
+      "depth": "−9,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Достоевская",
+      "number": "10",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "date": "19.06.2010",
+      "depth": "−60",
+      "hasConnection": false
+    },
+    {
+      "name": "Дубровка",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "11.10.2016",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Жулебино",
+      "number": "7",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "date": "09.11.2013",
+      "depth": "−15",
+      "hasConnection": false
+    },
+    {
+      "name": "ЗИЛ",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "10.09.2016",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Зорге",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "04.11.2016",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Зябликово",
+      "number": "10",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "date": "02.12.2011",
+      "depth": "−15",
+      "hasConnection": false
+    },
+    {
+      "name": "Измайлово",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "10.09.2016",
+      "depth": "5",
+      "hasConnection": false
+    },
+    {
+      "name": "Измайловская",
+      "number": "3",
+      "nameLine": "Арбатско-Покровская линия",
+      "date": "21.10.1961",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Каланчёвская",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Калитники",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Калужская",
+      "number": "6",
+      "nameLine": "Калужско-Рижская линия",
+      "date": "12.08.1974",
+      "depth": "−10",
+      "hasConnection": false
+    },
+    {
+      "name": "Кантемировская",
+      "number": "2",
+      "nameLine": "Замоскворецкая линия",
+      "date": "30.12.1984",
+      "depth": "−8",
+      "hasConnection": false
+    },
+    {
+      "name": "Каховская",
+      "number": "11A",
+      "nameLine": "Каховская линия",
+      "date": "11.08.1969",
+      "depth": "−8",
+      "hasConnection": false
+    },
+    {
+      "name": "Каширская",
+      "number": "11A",
+      "nameLine": "Каховская линия",
+      "date": "11.08.1969",
+      "depth": "−7",
+      "hasConnection": false
+    },
+    {
+      "name": "Киевская",
+      "number": "3",
+      "nameLine": "Арбатско-Покровская линия",
+      "date": "05.04.1953",
+      "depth": "−48",
+      "hasConnection": false
+    },
+    {
+      "name": "Китай-город",
+      "number": "6",
+      "nameLine": "Калужско-Рижская линия",
+      "date": "03.01.1971",
+      "depth": "−29",
+      "hasConnection": false
+    },
+    {
+      "name": "Кожуховская",
+      "number": "10",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "date": "28.12.1995",
+      "depth": "−12",
+      "hasConnection": false
+    },
+    {
+      "name": "Коломенская",
+      "number": "2",
+      "nameLine": "Замоскворецкая линия",
+      "date": "11.08.1969",
+      "depth": "−9",
+      "hasConnection": false
+    },
+    {
+      "name": "Коммунарка",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "depth": "?",
+      "hasConnection": false
+    },
+    {
+      "name": "Комсомольская",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "date": "30.01.1952",
+      "depth": "−37",
+      "hasConnection": false
+    },
+    {
+      "name": "Коньково",
+      "number": "6",
+      "nameLine": "Калужско-Рижская линия",
+      "date": "06.11.1987",
+      "depth": "−8",
+      "hasConnection": false
+    },
+    {
+      "name": "Коптево",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "01.11.2016",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Косино",
+      "number": "15",
+      "nameLine": "Некрасовская линия",
+      "depth": "−27",
+      "hasConnection": false
+    },
+    {
+      "name": "Котельники",
+      "number": "7",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "date": "21.09.2015",
+      "depth": "−15",
+      "hasConnection": false
+    },
+    {
+      "name": "Красногвардейская",
+      "number": "2",
+      "nameLine": "Замоскворецкая линия",
+      "date": "07.09.1985",
+      "depth": "−9",
+      "hasConnection": false
+    },
+    {
+      "name": "Красногорская",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Краснопресненская",
+      "number": "5",
+      "nameLine": "Кольцевая линия",
+      "date": "14.03.1954",
+      "depth": "−35,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Красносельская",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "date": "15.05.1935",
+      "depth": "−8",
+      "hasConnection": false
+    },
+    {
+      "name": "Красные ворота",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "date": "15.05.1935",
+      "depth": "−31",
+      "hasConnection": false
+    },
+    {
+      "name": "Красный Балтиец",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Красный Строитель",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Крестьянская застава",
+      "number": "10",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "date": "28.12.1995",
+      "depth": "−47",
+      "hasConnection": false
+    },
+    {
+      "name": "Кропоткинская",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "date": "15.05.1935",
+      "depth": "−13",
+      "hasConnection": false
+    },
+    {
+      "name": "Крылатское",
+      "number": "3",
+      "nameLine": "Арбатско-Покровская линия",
+      "date": "31.12.1989",
+      "depth": "−9,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Крымская",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "depth": "-3",
+      "hasConnection": false
+    },
+    {
+      "name": "Кубанская",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Кузнецкий мост",
+      "number": "7",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "date": "17.12.1975",
+      "depth": "−39,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Кузьминки",
+      "number": "7",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "date": "31.12.1966",
+      "depth": "−8",
+      "hasConnection": false
+    },
+    {
+      "name": "Кунцево",
+      "number": "D1",
+      "nameLine": "МЦД-1",
+      "hasConnection": false
+    },
+    {
+      "name": "Кунцевская",
+      "number": "3",
+      "nameLine": "Арбатско-Покровская линия",
+      "date": "07.01.2008",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Курская",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "date": "13.03.1938",
+      "depth": "−40",
+      "hasConnection": false
+    },
+    {
+      "name": "Курьяново",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Кутузовская",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "07.11.1958",
+      "depth": "-5",
+      "hasConnection": false
+    },
+    {
+      "name": "Ленинский проспект",
+      "number": "6",
+      "nameLine": "Калужско-Рижская линия",
+      "date": "13.10.1962",
+      "depth": "−16",
+      "hasConnection": false
+    },
+    {
+      "name": "Лермонтовский проспект",
+      "number": "7",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "date": "09.11.2013",
+      "depth": "−12",
+      "hasConnection": false
+    },
+    {
+      "name": "Лесопарковая",
+      "number": "12",
+      "nameLine": "Бутовская линия",
+      "date": "27.02.2014",
+      "depth": "−10",
+      "hasConnection": false
+    },
+    {
+      "name": "Лефортово",
+      "number": "15",
+      "nameLine": "Некрасовская линия",
+      "date": "27.03.2020",
+      "depth": "?",
+      "hasConnection": false
+    },
+    {
+      "name": "Лианозово",
+      "number": "D1",
+      "nameLine": "МЦД-1",
+      "hasConnection": false
+    },
+    {
+      "name": "Лихоборы",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "10.09.2016",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Лобня",
+      "number": "D1",
+      "nameLine": "МЦД-1",
+      "hasConnection": false
+    },
+    {
+      "name": "Локомотив",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "10.09.2016",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Ломоносовский проспект",
+      "number": "8",
+      "nameLine": "Калининско-Солнцевская линия",
+      "date": "16.03.2017",
+      "depth": "−15",
+      "hasConnection": false
+    },
+    {
+      "name": "Лубянка",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "date": "15.05.1935",
+      "depth": "−32,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Лужники",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "10.09.2016",
+      "depth": "5",
+      "hasConnection": false
+    },
+    {
+      "name": "Лухмановская",
+      "number": "15",
+      "nameLine": "Некрасовская линия",
+      "date": "03.06.2019",
+      "depth": "−15",
+      "hasConnection": false
+    },
+    {
+      "name": "Люблино",
+      "number": "10",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "date": "25.12.1996",
+      "depth": "−8",
+      "hasConnection": false
+    },
+    {
+      "name": "Марк",
+      "number": "D1",
+      "nameLine": "МЦД-1",
+      "hasConnection": false
+    },
+    {
+      "name": "Марксистская",
+      "number": "8",
+      "nameLine": "Калининско-Солнцевская линия",
+      "date": "30.12.1979",
+      "depth": "−60",
+      "hasConnection": false
+    },
+    {
+      "name": "Марьина роща",
+      "number": "10",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "date": "19.06.2010",
+      "depth": "−60",
+      "hasConnection": false
+    },
+    {
+      "name": "Марьино",
+      "number": "10",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "depth": "−8",
+      "hasConnection": false
+    },
+    {
+      "name": "Маяковская",
+      "number": "2",
+      "nameLine": "Замоскворецкая линия",
+      "date": "11.09.1938",
+      "depth": "−33,1",
+      "hasConnection": false
+    },
+    {
+      "name": "Медведково",
+      "number": "6",
+      "nameLine": "Калужско-Рижская линия",
+      "date": "30.09.1978",
+      "depth": "−10",
+      "hasConnection": false
+    },
+    {
+      "name": "Международная",
+      "number": "4",
+      "nameLine": "Филевская линия",
+      "date": "30.08.2006",
+      "depth": "−25",
+      "hasConnection": false
+    },
+    {
+      "name": "Менделеевская",
+      "number": "9",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "date": "31.12.1988",
+      "depth": "−48,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Минская",
+      "number": "8",
+      "nameLine": "Калининско-Солнцевская линия",
+      "date": "16.03.2017",
+      "depth": "−15",
+      "hasConnection": false
+    },
+    {
+      "name": "Митино",
+      "number": "3",
+      "nameLine": "Арбатско-Покровская линия",
+      "date": "26.12.2009",
+      "depth": "−14",
+      "hasConnection": false
+    },
+    {
+      "name": "Мичуринский проспект",
+      "number": "8",
+      "nameLine": "Калининско-Солнцевская линия",
+      "date": "30.08.2018",
+      "depth": "−19",
+      "hasConnection": false
+    },
+    {
+      "name": "Молодежная",
+      "number": "3",
+      "nameLine": "Арбатско-Покровская линия",
+      "hasConnection": false
+    },
+    {
+      "name": "Москва Товарная",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Москворечье",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Мякинино",
+      "number": "3",
+      "nameLine": "Арбатско-Покровская линия",
+      "date": "26.12.2009",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Нагатинская",
+      "number": "9",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "date": "08.11.1983",
+      "depth": "−13,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Нагорная",
+      "number": "9",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "date": "08.11.1983",
+      "depth": "−9",
+      "hasConnection": false
+    },
+    {
+      "name": "Нахабино",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Нахимовский Проспект",
+      "number": "9",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "date": "08.11.1983",
+      "depth": "−9,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Некрасовка",
+      "number": "15",
+      "nameLine": "Некрасовская линия",
+      "date": "03.06.2019",
+      "depth": "−16",
+      "hasConnection": false
+    },
+    {
+      "name": "Немчиновка",
+      "number": "D1",
+      "nameLine": "МЦД-1",
+      "hasConnection": false
+    },
+    {
+      "name": "Нижегородская",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "10.09.2016",
+      "depth": "−21,8",
+      "hasConnection": false
+    },
+    {
+      "name": "Новогиреево",
+      "number": "8",
+      "nameLine": "Калининско-Солнцевская линия",
+      "date": "30.12.1979",
+      "depth": "−9",
+      "hasConnection": false
+    },
+    {
+      "name": "Новодачная",
+      "number": "D1",
+      "nameLine": "МЦД-1",
+      "hasConnection": false
+    },
+    {
+      "name": "Новокосино",
+      "number": "8",
+      "nameLine": "Калининско-Солнцевская линия",
+      "date": "30.08.2012",
+      "depth": "−9",
+      "hasConnection": false
+    },
+    {
+      "name": "Новокузнецкая",
+      "number": "2",
+      "nameLine": "Замоскворецкая линия",
+      "date": "20.11.1943",
+      "depth": "−37,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Новопеределкино",
+      "number": "8",
+      "nameLine": "Калининско-Солнцевская линия",
+      "date": "30.08.2018",
+      "depth": "−16",
+      "hasConnection": false
+    },
+    {
+      "name": "Новослободская",
+      "number": "5",
+      "nameLine": "Кольцевая линия",
+      "date": "30.01.1952",
+      "depth": "−40",
+      "hasConnection": false
+    },
+    {
+      "name": "Новохохловская",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "10.09.2016",
+      "hasConnection": false
+    },
+    {
+      "name": "Новоясеневская",
+      "number": "6",
+      "nameLine": "Калужско-Рижская линия",
+      "depth": "−7",
+      "hasConnection": false
+    },
+    {
+      "name": "Новые Черёмушки",
+      "number": "6",
+      "nameLine": "Калужско-Рижская линия",
+      "date": "13.10.1962",
+      "depth": "−7",
+      "hasConnection": false
+    },
+    {
+      "name": "Одинцово",
+      "number": "D1",
+      "nameLine": "МЦД-1",
+      "hasConnection": false
+    },
+    {
+      "name": "Озёрная",
+      "number": "8",
+      "nameLine": "Калининско-Солнцевская линия",
+      "depth": "−25",
+      "hasConnection": false
+    },
+    {
+      "name": "Окружная",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "22.03.2018",
+      "depth": "−65",
+      "hasConnection": false
+    },
+    {
+      "name": "Окская",
+      "number": "15",
+      "nameLine": "Некрасовская линия",
+      "date": "27.03.2020",
+      "depth": "?",
+      "hasConnection": false
+    },
+    {
+      "name": "Октябрьская",
+      "number": "5",
+      "nameLine": "Кольцевая линия",
+      "date": "13.10.1962",
+      "depth": "−50",
+      "hasConnection": false
+    },
+    {
+      "name": "Октябрьское Поле",
+      "number": "7",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "date": "30.12.1972",
+      "depth": "−9",
+      "hasConnection": false
+    },
+    {
+      "name": "Ольховая",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "date": "20.06.2019",
+      "depth": "?",
+      "hasConnection": false
+    },
+    {
+      "name": "Опалиха",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Орехово",
+      "number": "2",
+      "nameLine": "Замоскворецкая линия",
+      "date": "30.12.1984",
+      "depth": "−9",
+      "hasConnection": false
+    },
+    {
+      "name": "Остафьево",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Отрадное",
+      "number": "9",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "date": "01.03.1991",
+      "depth": "−9",
+      "hasConnection": false
+    },
+    {
+      "name": "Охотный ряд",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "date": "15.05.1935",
+      "depth": "−15",
+      "hasConnection": false
+    },
+    {
+      "name": "Павелецкая",
+      "number": "2",
+      "nameLine": "Замоскворецкая линия",
+      "date": "01.01.1950",
+      "depth": "−40",
+      "hasConnection": false
+    },
+    {
+      "name": "Павшино",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Панфиловская",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "08.11.2016",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Парк Культуры",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "date": "15.05.1935",
+      "depth": "−10,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Парк Победы",
+      "number": "3",
+      "nameLine": "Арбатско-Покровская линия",
+      "date": "06.05.2003",
+      "depth": "−73,6",
+      "hasConnection": false
+    },
+    {
+      "name": "Партизанская",
+      "number": "3",
+      "nameLine": "Арбатско-Покровская линия",
+      "date": "18.01.1944",
+      "depth": "−9",
+      "hasConnection": false
+    },
+    {
+      "name": "Пенягино",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Первомайская",
+      "number": "3",
+      "nameLine": "Арбатско-Покровская линия",
+      "date": "21.10.1961",
+      "depth": "−7",
+      "hasConnection": false
+    },
+    {
+      "name": "Перерва",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Перово",
+      "number": "8",
+      "nameLine": "Калининско-Солнцевская линия",
+      "date": "30.12.1979",
+      "depth": "−9",
+      "hasConnection": false
+    },
+    {
+      "name": "Петровский парк",
+      "number": "11",
+      "nameLine": "Большая Кольцевая Линия",
+      "date": "26.02.2018",
+      "depth": "−25",
+      "hasConnection": false
+    },
+    {
+      "name": "Петровско-Разумовская",
+      "number": "9",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "date": "16.09.2016",
+      "depth": "−61",
+      "hasConnection": false
+    },
+    {
+      "name": "Печатники",
+      "number": "10",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "date": "28.12.1995",
+      "depth": "−5",
+      "hasConnection": false
+    },
+    {
+      "name": "Пионерская",
+      "number": "4",
+      "nameLine": "Филевская линия",
+      "date": "13.10.1961",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Планерная",
+      "number": "7",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "date": "30.12.1975",
+      "depth": "−6",
+      "hasConnection": false
+    },
+    {
+      "name": "Площадь Гагарина",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "10.09.2016",
+      "depth": "-5",
+      "hasConnection": false
+    },
+    {
+      "name": "Площадь Ильича",
+      "number": "8",
+      "nameLine": "Калининско-Солнцевская линия",
+      "date": "30.12.1979",
+      "depth": "−46",
+      "hasConnection": false
+    },
+    {
+      "name": "Площадь Революции",
+      "number": "3",
+      "nameLine": "Арбатско-Покровская линия",
+      "date": "13.03.1938",
+      "depth": "−33,6",
+      "hasConnection": false
+    },
+    {
+      "name": "Подольск",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Покровская",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Полежаевская",
+      "number": "7",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "date": "30.12.1972",
+      "depth": "−10",
+      "hasConnection": false
+    },
+    {
+      "name": "Полянка",
+      "number": "9",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "date": "23.01.1986",
+      "depth": "−36,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Пражская",
+      "number": "9",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "date": "06.11.1985",
+      "depth": "−9,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Преображенская площадь",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "date": "31.12.1965",
+      "depth": "−8",
+      "hasConnection": false
+    },
+    {
+      "name": "Прокшино",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "date": "20.06.2019",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Пролетарская",
+      "number": "7",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "date": "31.12.1966",
+      "depth": "−9",
+      "hasConnection": false
+    },
+    {
+      "name": "Проспект Вернадского",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "date": "30.12.1963",
+      "depth": "−16",
+      "hasConnection": false
+    },
+    {
+      "name": "Проспект Мира",
+      "number": "5",
+      "nameLine": "Кольцевая линия",
+      "date": "01.05.1958",
+      "depth": "−50",
+      "hasConnection": false
+    },
+    {
+      "name": "Профсоюзная",
+      "number": "6",
+      "nameLine": "Калужско-Рижская линия",
+      "date": "13.10.1962",
+      "depth": "−7",
+      "hasConnection": false
+    },
+    {
+      "name": "Пушкинская",
+      "number": "7",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "date": "17.12.1975",
+      "depth": "−51",
+      "hasConnection": false
+    },
+    {
+      "name": "Пятницкое шоссе",
+      "number": "3",
+      "nameLine": "Арбатско-Покровская линия",
+      "date": "28.12.2012",
+      "depth": "−11",
+      "hasConnection": false
+    },
+    {
+      "name": "Рабочий Посёлок",
+      "number": "D1",
+      "nameLine": "МЦД-1",
+      "hasConnection": false
+    },
+    {
+      "name": "Раменки",
+      "number": "8",
+      "nameLine": "Калининско-Солнцевская линия",
+      "date": "16.03.2017",
+      "depth": "−15",
+      "hasConnection": false
+    },
+    {
+      "name": "Рассказовка",
+      "number": "8",
+      "nameLine": "Калининско-Солнцевская линия",
+      "date": "30.08.2018",
+      "depth": "−12",
+      "hasConnection": false
+    },
+    {
+      "name": "Речной вокзал",
+      "number": "2",
+      "nameLine": "Замоскворецкая линия",
+      "date": "31.12.1964",
+      "depth": "−6",
+      "hasConnection": false
+    },
+    {
+      "name": "Рижская",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "date": "01.05.1958",
+      "depth": "−46",
+      "hasConnection": false
+    },
+    {
+      "name": "Римская",
+      "number": "10",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "date": "28.12.1995",
+      "depth": "−54",
+      "hasConnection": false
+    },
+    {
+      "name": "Ростокино",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "10.09.2016",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Румянцево",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "date": "18.01.2016",
+      "depth": "−12",
+      "hasConnection": false
+    },
+    {
+      "name": "Рязанский проспект",
+      "number": "7",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "date": "31.12.1966",
+      "depth": "−6",
+      "hasConnection": false
+    },
+    {
+      "name": "Савеловская",
+      "number": "9",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "hasConnection": false
+    },
+    {
+      "name": "Савёловская",
+      "number": "11",
+      "nameLine": "Большая Кольцевая Линия",
+      "date": "31.12.1988",
+      "depth": "−65",
+      "hasConnection": false
+    },
+    {
+      "name": "Саларьево",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "date": "15.02.2016",
+      "depth": "−12",
+      "hasConnection": false
+    },
+    {
+      "name": "Свиблово",
+      "number": "6",
+      "nameLine": "Калужско-Рижская линия",
+      "date": "30.09.1978",
+      "depth": "−8",
+      "hasConnection": false
+    },
+    {
+      "name": "Севастопольская",
+      "number": "9",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "date": "08.11.1983",
+      "depth": "−13",
+      "hasConnection": false
+    },
+    {
+      "name": "Селигерская",
+      "number": "10",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "date": "22.03.2018",
+      "depth": "−20",
+      "hasConnection": false
+    },
+    {
+      "name": "Семеновская",
+      "number": "3",
+      "nameLine": "Арбатско-Покровская линия",
+      "hasConnection": false
+    },
+    {
+      "name": "Серпуховская",
+      "number": "9",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "depth": "−43",
+      "hasConnection": false
+    },
+    {
+      "name": "Сетунь",
+      "number": "D1",
+      "nameLine": "МЦД-1",
+      "hasConnection": false
+    },
+    {
+      "name": "Силикатная",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Сколково",
+      "number": "D1",
+      "nameLine": "МЦД-1",
+      "hasConnection": false
+    },
+    {
+      "name": "Славянский бульвар",
+      "number": "D1",
+      "nameLine": "МЦД-1",
+      "date": "07.09.2008",
+      "depth": "−8,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Смоленская",
+      "number": "3",
+      "nameLine": "Арбатско-Покровская линия",
+      "date": "15.05.1935",
+      "depth": "−8",
+      "hasConnection": false
+    },
+    {
+      "name": "Сокол",
+      "number": "2",
+      "nameLine": "Замоскворецкая линия",
+      "date": "11.09.1938",
+      "depth": "−9,6",
+      "hasConnection": false
+    },
+    {
+      "name": "Соколиная Гора",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "11.10.2016",
+      "depth": "-5",
+      "hasConnection": false
+    },
+    {
+      "name": "Сокольники",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "date": "15.05.1935",
+      "depth": "−9",
+      "hasConnection": false
+    },
+    {
+      "name": "Солнцево",
+      "number": "8",
+      "nameLine": "Калининско-Солнцевская линия",
+      "date": "30.08.2018",
+      "depth": "−13",
+      "hasConnection": false
+    },
+    {
+      "name": "Спартак",
+      "number": "7",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "date": "27.08.2014",
+      "depth": "−10",
+      "hasConnection": false
+    },
+    {
+      "name": "Спортивная",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "date": "01.05.1957",
+      "depth": "−42",
+      "hasConnection": false
+    },
+    {
+      "name": "Сретенский бульвар",
+      "number": "10",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "date": "29.12.2007",
+      "depth": "−60",
+      "hasConnection": false
+    },
+    {
+      "name": "Стахановская",
+      "number": "15",
+      "nameLine": "Некрасовская линия",
+      "date": "27.03.2020",
+      "depth": "?",
+      "hasConnection": false
+    },
+    {
+      "name": "Стрешнево",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "10.09.2016",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Строгино",
+      "number": "3",
+      "nameLine": "Арбатско-Покровская линия",
+      "date": "07.01.2008",
+      "depth": "−8",
+      "hasConnection": false
+    },
+    {
+      "name": "Студенческая",
+      "number": "4",
+      "nameLine": "Филевская линия",
+      "date": "07.11.1958",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Сухаревская",
+      "number": "6",
+      "nameLine": "Калужско-Рижская линия",
+      "date": "05.01.1972",
+      "depth": "−43",
+      "hasConnection": false
+    },
+    {
+      "name": "Сходненская",
+      "number": "7",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "date": "30.12.1975",
+      "depth": "−6",
+      "hasConnection": false
+    },
+    {
+      "name": "Таганская",
+      "number": "5",
+      "nameLine": "Кольцевая линия",
+      "date": "01.01.1950",
+      "depth": "−36",
+      "hasConnection": false
+    },
+    {
+      "name": "Тверская",
+      "number": "2",
+      "nameLine": "Замоскворецкая линия",
+      "date": "20.07.1979",
+      "depth": "−42",
+      "hasConnection": false
+    },
+    {
+      "name": "Театральная",
+      "number": "2",
+      "nameLine": "Замоскворецкая линия",
+      "date": "11.09.1938",
+      "depth": "−33,9",
+      "hasConnection": false
+    },
+    {
+      "name": "Текстильщики",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "date": "31.12.1966",
+      "depth": "−13",
+      "hasConnection": false
+    },
+    {
+      "name": "Теплый стан",
+      "number": "6",
+      "nameLine": "Калужско-Рижская линия",
+      "hasConnection": false
+    },
+    {
+      "name": "Тестовская",
+      "number": "D1",
+      "nameLine": "МЦД-1",
+      "hasConnection": false
+    },
+    {
+      "name": "Технопарк",
+      "number": "2",
+      "nameLine": "Замоскворецкая линия",
+      "date": "28.12.2015",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Тимирязевская",
+      "number": "D1",
+      "nameLine": "МЦД-1",
+      "date": "01.03.1991",
+      "depth": "−63,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Третьяковская",
+      "number": "6",
+      "nameLine": "Калужско-Рижская линия",
+      "date": "25.01.1986",
+      "depth": "−46",
+      "hasConnection": false
+    },
+    {
+      "name": "Трикотажная",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Тропарёво",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "date": "08.12.2014",
+      "depth": "−12",
+      "hasConnection": false
+    },
+    {
+      "name": "Трубная",
+      "number": "10",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "date": "30.08.2007",
+      "depth": "−60",
+      "hasConnection": false
+    },
+    {
+      "name": "Тульская",
+      "number": "9",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "date": "08.11.1983",
+      "depth": "−9,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Тургеневская",
+      "number": "6",
+      "nameLine": "Калужско-Рижская линия",
+      "date": "05.01.1972",
+      "depth": "−49",
+      "hasConnection": false
+    },
+    {
+      "name": "Тушино",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Тушинская",
+      "number": "7",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "depth": "−10,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Угрешская",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "10.09.2016",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Улица 1905 года",
+      "number": "7",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "date": "30.12.1972",
+      "depth": "−11",
+      "hasConnection": false
+    },
+    {
+      "name": "Улица академика Янгеля",
+      "number": "9",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "date": "31.08.2000",
+      "depth": "−8",
+      "hasConnection": false
+    },
+    {
+      "name": "Улица Горчакова",
+      "number": "12",
+      "nameLine": "Бутовская линия",
+      "date": "27.12.2003",
+      "depth": "9,6",
+      "hasConnection": false
+    },
+    {
+      "name": "Улица Дмитриевского",
+      "number": "15",
+      "nameLine": "Некрасовская линия",
+      "date": "03.06.2019",
+      "depth": "−18",
+      "hasConnection": false
+    },
+    {
+      "name": "Улица Скобелевская",
+      "number": "12",
+      "nameLine": "Бутовская линия",
+      "date": "27.12.2003",
+      "depth": "9,6",
+      "hasConnection": false
+    },
+    {
+      "name": "Улица Старокачаловская",
+      "number": "12",
+      "nameLine": "Бутовская линия",
+      "date": "27.12.2003",
+      "depth": "−10",
+      "hasConnection": false
+    },
+    {
+      "name": "Университет",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "date": "12.01.1959",
+      "depth": "−26,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Филатов Луг",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "date": "20.06.2019",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Филевский парк",
+      "number": "4",
+      "nameLine": "Филевская линия",
+      "hasConnection": false
+    },
+    {
+      "name": "Фили",
+      "number": "D1",
+      "nameLine": "МЦД-1",
+      "date": "07.11.1959",
+      "depth": "0",
+      "hasConnection": false
+    },
+    {
+      "name": "Фонвизинская",
+      "number": "10",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "date": "16.09.2016",
+      "depth": "−65",
+      "hasConnection": false
+    },
+    {
+      "name": "Фрунзенская",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "date": "01.05.1957",
+      "depth": "−42",
+      "hasConnection": false
+    },
+    {
+      "name": "Хлебниково",
+      "number": "D1",
+      "nameLine": "МЦД-1",
+      "hasConnection": false
+    },
+    {
+      "name": "Ховрино",
+      "number": "2",
+      "nameLine": "Замоскворецкая линия",
+      "date": "31.12.2017",
+      "depth": "−14",
+      "hasConnection": false
+    },
+    {
+      "name": "Хорошёво",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "10.09.2016",
+      "depth": "5",
+      "hasConnection": false
+    },
+    {
+      "name": "Хорошёвская",
+      "number": "11",
+      "nameLine": "Большая Кольцевая Линия",
+      "date": "26.02.2018",
+      "depth": "−21",
+      "hasConnection": false
+    },
+    {
+      "name": "Царицыно",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "date": "30.12.1984",
+      "depth": "−8",
+      "hasConnection": false
+    },
+    {
+      "name": "Цветной бульвар",
+      "number": "9",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "date": "31.12.1988",
+      "depth": "−50",
+      "hasConnection": false
+    },
+    {
+      "name": "ЦСКА",
+      "number": "11",
+      "nameLine": "Большая Кольцевая Линия",
+      "date": "26.02.2018",
+      "depth": "−28",
+      "hasConnection": false
+    },
+    {
+      "name": "Черкизовская",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "date": "01.08.1990",
+      "depth": "−9",
+      "hasConnection": false
+    },
+    {
+      "name": "Чертановская",
+      "number": "9",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "date": "08.11.1983",
+      "depth": "−10,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Чеховская",
+      "number": "9",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "date": "31.12.1987",
+      "depth": "−62",
+      "hasConnection": false
+    },
+    {
+      "name": "Чистые пруды",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "date": "15.05.1935",
+      "depth": "−35",
+      "hasConnection": false
+    },
+    {
+      "name": "Чкаловская",
+      "number": "10",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "date": "28.12.1995",
+      "depth": "−51",
+      "hasConnection": false
+    },
+    {
+      "name": "Шаболовская",
+      "number": "6",
+      "nameLine": "Калужско-Рижская линия",
+      "date": "06.11.1980",
+      "depth": "−46,5",
+      "hasConnection": false
+    },
+    {
+      "name": "Шелепиха",
+      "number": "11",
+      "nameLine": "Большая Кольцевая Линия",
+      "date": "10.09.2016",
+      "depth": "5",
+      "hasConnection": false
+    },
+    {
+      "name": "Шереметьевская",
+      "number": "D1",
+      "nameLine": "МЦД-1",
+      "hasConnection": false
+    },
+    {
+      "name": "Шипиловская",
+      "number": "10",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "date": "02.12.2011",
+      "depth": "−10",
+      "hasConnection": false
+    },
+    {
+      "name": "Шоссе Энтузиастов",
+      "number": "14",
+      "nameLine": "Центральное Кольцо",
+      "date": "30.12.1979",
+      "depth": "−53",
+      "hasConnection": false
+    },
+    {
+      "name": "Щелковская",
+      "number": "3",
+      "nameLine": "Арбатско-Покровская линия",
+      "hasConnection": false
+    },
+    {
+      "name": "Щербинка",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "hasConnection": false
+    },
+    {
+      "name": "Щукинская",
+      "number": "D2",
+      "nameLine": "МЦД-2",
+      "depth": "−13",
+      "hasConnection": false
+    },
+    {
+      "name": "Электрозаводская",
+      "number": "15",
+      "nameLine": "Некрасовская линия",
+      "date": "31.12.2020",
+      "depth": "−20",
+      "hasConnection": false
+    },
+    {
+      "name": "Юго-Восточная",
+      "number": "15",
+      "nameLine": "Некрасовская линия",
+      "date": "27.03.2020",
+      "depth": "−20",
+      "hasConnection": false
+    },
+    {
+      "name": "Юго-Западная",
+      "number": "1",
+      "nameLine": "Сокольническая линия",
+      "date": "30.12.1963",
+      "depth": "−8",
+      "hasConnection": false
+    },
+    {
+      "name": "Южная",
+      "number": "9",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "date": "08.11.1983",
+      "depth": "−10",
+      "hasConnection": false
+    },
+    {
+      "name": "Ясенево",
+      "number": "6",
+      "nameLine": "Калужско-Рижская линия",
+      "date": "17.01.1990",
+      "depth": "−8",
+      "hasConnection": false
+    }
+  ]
+}
